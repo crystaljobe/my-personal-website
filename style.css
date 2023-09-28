@@ -2,6 +2,10 @@ body {
     background: powderblue;
     text-align: center;
     color: darkslateblue;
+  }
+
+  #header {
     font-weight: bold;
     text-decoration-line: underline;
-  }
+}
+
